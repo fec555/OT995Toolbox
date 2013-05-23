@@ -1,0 +1,9 @@
+c:\users\ferensz\documents\visual studio 2012\Projects\OT995\OT995\bin\Debug\OT995.exe.config
+c:\users\ferensz\documents\visual studio 2012\Projects\OT995\OT995\bin\Debug\OT995.exe
+c:\users\ferensz\documents\visual studio 2012\Projects\OT995\OT995\bin\Debug\OT995.pdb
+c:\users\ferensz\documents\visual studio 2012\Projects\OT995\OT995\obj\Debug\OT995.csprojResolveAssemblyReference.cache
+c:\users\ferensz\documents\visual studio 2012\Projects\OT995\OT995\obj\Debug\OT995.Form1.resources
+c:\users\ferensz\documents\visual studio 2012\Projects\OT995\OT995\obj\Debug\OT995.Properties.Resources.resources
+c:\users\ferensz\documents\visual studio 2012\Projects\OT995\OT995\obj\Debug\OT995.csproj.GenerateResource.Cache
+c:\users\ferensz\documents\visual studio 2012\Projects\OT995\OT995\obj\Debug\OT995.exe
+c:\users\ferensz\documents\visual studio 2012\Projects\OT995\OT995\obj\Debug\OT995.pdb
